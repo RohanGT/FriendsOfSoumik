@@ -1,4 +1,9 @@
 # FriendsOfSoumik
 List of my friends
 
-Madhav Shroff
+-Madhav Shroff
+
+- Steve Roche
+
+-Anshita
+
